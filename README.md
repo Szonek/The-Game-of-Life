@@ -1,2 +1,4 @@
 # The-Game-of-Life
-New repository
+"The Game of Life"
+Window application made in Java.
+Used frameworks : AWT, Swing.
